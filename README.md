@@ -82,10 +82,6 @@ This application is for **educational purposes only**. It is intentionally vulne
 
 
 
-## Contributing
-
-Contributions are welcome! If you'd like to add more vulnerabilities or improve the application, please create a pull request or open an issue.
-
 
 
 
