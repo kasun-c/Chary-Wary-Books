@@ -37,7 +37,6 @@ The primary goal of this project is to help students understand how vulnerabilit
     mysql -u root -p book_store < db/book_store_dump.sql
 ### 3. Configure the Application
 Update the `config.php` file with your database credentials:
-
     ```php
     <?php
       $link = mysqli_connect("localhost", "root", "your_password", "book_store");
